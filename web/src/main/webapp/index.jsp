@@ -16,7 +16,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our College</h1>
+        <h1>Welcome to Our institute</h1>
         <nav>
             <ul>
                 <li><a href="index.jsp">Home</a></li>
